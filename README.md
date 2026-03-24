@@ -32,9 +32,3 @@ A quantitative backtesting framework for Thai stocks (SET) that compares **Equal
 ![Drawdown](results/figures/drawdown.png)
 ![Rolling Sharpe](results/figures/rolling_sharpe.png)
 
-## 🛠️ Installation & Usage
-```bash
-git clone https://github.com/your-username/thai-stock-backtest.git
-cd thai-stock-backtest
-pip install -r requirements.txt
-python notebooks/backtest_analysis.ipynb   # หรือเปิดใน Jupyter
