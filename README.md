@@ -28,7 +28,8 @@ A quantitative backtesting framework for Thai stocks (SET) that compares **Equal
 - Momentum and Equal Weight suffered deeper drawdowns (> -35%).
 
 ## 📈 Visuals
-![Equity Curves](results/figures/equity_curves.png)
-![Drawdown](results/figures/drawdown.png)
-![Rolling Sharpe](results/figures/rolling_sharpe.png)
+![Equity Curves](equity_curves.png)
+![Drawdown](drawdown.png)
+![Rolling Sharpe](rolling_sharpe.png)
+![Correlation Matrix](correlation_heatmap.png)
 
